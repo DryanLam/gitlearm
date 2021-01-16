@@ -1,0 +1,7 @@
+2.1	What is XPath
+•	XPath stands for XML Path Language.
+•	The 'X' in XPath comes from its roots in XML, the eXtensible Markup Language.
+•	The 'Path' in XPath comes from the fact that XPath uses a 'path like' syntax.
+•	With XPath it is possible to identify parts of an XML document and perform computations on data in the XML document.
+•	XPath in XML or HTML document shows the direction of software web application's element location through nodes and attributes.
+•	XPath is a W3C recommendation.
